@@ -1,2 +1,4 @@
 print('Olá Karina!')
-print("quanto é 1+1?")
+print("quer somar comigo?")
+number_1 = input('entre com seu primeiro valor:')
+number_2 = input('Entre com seu segundo valor:')
